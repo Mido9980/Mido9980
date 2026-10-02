@@ -15,6 +15,8 @@ Indie developer from Egypt 🇪🇬 building web apps, AI tools and offline-firs
 Free AI video generator that runs 100% in the browser. Write an idea → get a scene plan, storyboard, and a rendered video with music. Works in **14 languages** with full RTL support.
 
 🌐 Live: https://mido9980.github.io/ai-video-agent/
+📱 **تحميل تطبيق أندرويد (APK) / Android app (APK):** https://github.com/Mido9980/ai-video-agent/releases/download/v1.0/AI-Video-Agent-EASYCODE.apk
+— يعمل أوف لاين بالكامل بعد التثبيت / works fully offline after install.
 📦 Repo: https://github.com/Mido9980/ai-video-agent
 📱 Installable as an Android/web app (PWA) — works offline.
 
