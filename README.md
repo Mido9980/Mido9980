@@ -6,6 +6,11 @@
 
 Indie developer from Egypt 🇪🇬 building web apps, AI tools and offline-first software under the **EASY CODE** brand.
 
+## 🌐 البورتفوليو الكامل / Full Portfolio
+
+**كل مشاريعي في صفحة واحدة — تجرب وتحمّل كل حاجة من مكان واحد:**
+https://mido9980.github.io/
+
 ---
 
 ## 🎬 Featured — AI Video Agent
@@ -23,7 +28,8 @@ Free AI video generator that runs 100% in the browser. Write an idea → get a s
 ## 🛠️ Other Projects
 
 - **EASY CODE Store** — سوق تطبيقات (متجر تطبيقات مصغّر): https://media.base44.com/files/public/69db368352cbe2cb34d1b7c1/5fb8d3dda_index.html
-- **WakeelBot Builder** — صانع وكلاء ذكاء اصطناعي يعمل أوف لاين بالعامية المصرية: https://media.base44.com/files/public/69db368352cbe2cb34d1b7c1/e54d3e01c_builder.html
+- **Easy Code Agent (صانع وكلاء AI أوف لاين)**: https://mido9980.github.io/easy-code-agent/ — APK: https://github.com/Mido9980/easy-code-agent/releases/download/v1.0/Easy-Code-Agent-EASYCODE.apk
+- ~~WakeelBot Builder~~ — صانع وكلاء ذكاء اصطناعي يعمل أوف لاين بالعامية المصرية: https://media.base44.com/files/public/69db368352cbe2cb34d1b7c1/e54d3e01c_builder.html
 
 ## ⚒️ Tech
 
