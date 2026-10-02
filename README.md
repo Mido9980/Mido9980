@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src="https://mido9980.github.io/ai-video-agent/icon-192.png" width="88" align="left" style="margin-right:14px" />
 
-<!--
-**Mido9980/Mido9980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 مرحباً، أنا Mido — EASY CODE
 
-Here are some ideas to get you started:
+**Apps Made Easy** 🚀 — مطوّر مستقل أبني تطبيقات ويب وأندرويد وأدوات ذكاء اصطناعي تعمل بدون إنترنت.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Indie developer from Egypt 🇪🇬 building web apps, AI tools and offline-first software under the **EASY CODE** brand.
+
+---
+
+## 🎬 Featured — AI Video Agent
+
+**وكيل ذكاء اصطناعي يولّد فيديوهات من فكرة نصية — مجاناً وبدون أي مفاتيح API.**
+
+Free AI video generator that runs 100% in the browser. Write an idea → get a scene plan, storyboard, and a rendered video with music. Works in **14 languages** with full RTL support.
+
+🌐 Live: https://mido9980.github.io/ai-video-agent/
+📦 Repo: https://github.com/Mido9980/ai-video-agent
+📱 Installable as an Android/web app (PWA) — works offline.
+
+## 🛠️ Other Projects
+
+- **EASY CODE Store** — سوق تطبيقات (متجر تطبيقات مصغّر): https://media.base44.com/files/public/69db368352cbe2cb34d1b7c1/5fb8d3dda_index.html
+- **WakeelBot Builder** — صانع وكلاء ذكاء اصطناعي يعمل أوف لاين بالعامية المصرية: https://media.base44.com/files/public/69db368352cbe2cb34d1b7c1/e54d3e01c_builder.html
+
+## ⚒️ Tech
+
+`JavaScript` · `Canvas` · `WebAudio` · `MediaRecorder` · `PWA` · `Offline-First` · `HTML/CSS` · `Kotlin` · `Jetpack Compose`
+
+---
+
+<div align="center"><i>EASY CODE — Apps Made Easy ✨</i></div>
